@@ -1,4 +1,4 @@
-### Hi there 👋    I'm sophomore at Bilkent University 
+### Hi there 👋    I'm junior at Bilkent University 
 ### I'm Serhat and I'm studying in Computer Science
 <!--
 **SSerhatS/SSerhatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
