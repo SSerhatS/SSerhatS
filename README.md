@@ -1,5 +1,5 @@
-### Hi there 👋    I'm senior student at Bilkent University 
-### I'm Serhat and I'm studying in Computer Science
+### Hi there 👋    I'm senior Computer Science student at Bilkent University 
+### Eager to learn the fundamentals of coding 
 <!--
 **SSerhatS/SSerhatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
